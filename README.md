@@ -37,4 +37,6 @@ If your aim is to explore all that this darknet marketplace offers, prioritize y
 
 
 
-Update:  24.06.2025 04:36 link is operational
+
+
+Update: url is now operational
