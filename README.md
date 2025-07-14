@@ -43,4 +43,6 @@ If your aim is to explore all that this darknet marketplace offers, prioritize y
 
 
 
-Update: Document links
+
+
+Update: Updated dependency URLs to latest versions
