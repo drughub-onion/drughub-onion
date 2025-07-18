@@ -45,4 +45,6 @@ If your aim is to explore all that this darknet marketplace offers, prioritize y
 
 
 
-Update: Updated dependency URLs to latest versions
+
+
+Update:  18.07.2025 15:05
