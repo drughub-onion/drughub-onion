@@ -51,4 +51,6 @@ If your aim is to explore all that this darknet marketplace offers, prioritize y
 
 
 
-Update:  24.07.2025 Broken anchors
+
+
+Update:  04.08.2025
