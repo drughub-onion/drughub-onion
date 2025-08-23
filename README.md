@@ -57,4 +57,6 @@ If your aim is to explore all that this darknet marketplace offers, prioritize y
 
 
 
-Update:  Tuesday 19 August 2025 url is accessible again
+
+
+Update:  Saturday 23 August 2025
