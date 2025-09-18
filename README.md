@@ -63,4 +63,6 @@ If your aim is to explore all that this darknet marketplace offers, prioritize y
 
 
 
-Update:  Sunday 14 September 2025
+
+
+Update:  18 September Updated external references to current URLs
